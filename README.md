@@ -10,6 +10,7 @@ Ejecutar la aplicación:
 py -m streamlit run app.py
 ## Uso
 Modificar los valores de entrada para obtener una predicción del riesgo de abandono estudiantil.
+Ingresando al link : https://proyecto-regresion-logisticamat205-ycew6c9vjyxkbt6nofykjf.streamlit.app/
 ## Captura de la Aplicación
 ![Aplicación](Imagen_prueba.png)
 ## Autor
