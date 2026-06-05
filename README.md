@@ -1,104 +1,18 @@
 ﻿# Proyecto MAT205 - Regresión Logística
-# Descripción
-## Este proyecto implementa un modelo de Regresión Logística para predecir el riesgo de abandono estudiantil utilizando variables académicas como promedio, asistencia y horas de estudio.
-# \## Dependencias
-
-# 
-
-# Instalar las siguientes librerías:
-
-# 
-
-# ```bash
-
-# pip install pandas
-
-# pip install numpy
-
-# pip install scikit-learn
-
-# pip install streamlit
-
-# pip install matplotlib
-
-# pip install joblib
-
-# ```
-
-# 
-
-# O instalar todas mediante:
-
-# 
-
-# ```bash
-
-# pip install -r requirements.txt
-
-# ```
-
-# 
-
-# \## Archivos del Proyecto
-
-# 
-
-# \* `app.py` → Aplicación interactiva en Streamlit.
-
-# \* `train\_model.py` → Entrenamiento del modelo.
-
-# \* `generar\_dataset.py` → Generación del dataset.
-
-# \* `dataset.csv` → Conjunto de datos.
-
-# \* `modelo.pkl` → Modelo entrenado.
-
-# 
-
-# \## Ejecución
-
-# 
-# \### 1. Entrenar el modelo
-
-# 
-
-# ```bash
-
-# py train\_model.py
-
-# ```
-
-# 
-
-# \### 2. Ejecutar la aplicación
-
-# 
-
-# ```bash
-
-# py -m streamlit run app.py
-
-# ```
-
-# 
-
-# \## Uso
-
-![Aplicación](Screenshot_2026-06-05-14-12-56-189_com.android.chrome.png)
-
-# Modificar los valores de entrada (Promedio, Asistencia y Horas de Estudio) mediante los controles de la aplicación para obtener una predicción del riesgo de abandono estudiantil.
-
-# 
-
-# \## Autor
-
-# 
-
-# Kevin Arancibia
-
-# Ingeniería de Sistemas
-
-# Métodos Numéricos (MAT205)
-
-
-
+## Descripción
+Este proyecto implementa un modelo de Regresión Logística para predecir el riesgo de abandono estudiantil.
+## Dependencias
+pip install -r requirements.txt
+## Ejecución
+Entrenar el modelo:
+py train_model.py
+Ejecutar la aplicación:
+py -m streamlit run app.py
+## Uso
+Modificar los valores de entrada para obtener una predicción del riesgo de abandono estudiantil.
+## Captura de la Aplicación
+![Aplicación](Imagen_prueba.png)
+## Autor
+Kevin Arancibia
+Ingeniería de Sistemas
+MAT205
