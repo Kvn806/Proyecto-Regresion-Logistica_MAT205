@@ -14,6 +14,6 @@ Ingresando al link : https://proyecto-regresion-logisticamat205-ycew6c9vjyxkbt6n
 ## Captura de la Aplicación
 ![Aplicación](Imagen_prueba.png)
 ## Autor
-Kevin Arancibia
+Kevin Miranda Arancibia
 Ingeniería de Sistemas
 MAT205
